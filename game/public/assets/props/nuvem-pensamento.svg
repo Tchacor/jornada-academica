@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" width="200" height="160">
+<defs><linearGradient id="n" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7d8ba3"/><stop offset="1" stop-color="#46526a"/></linearGradient></defs>
+<g stroke-linejoin="round" stroke-linecap="round">
+<path d="M52 118 C24 118 12 98 22 82 C14 62 34 46 54 52 C58 30 84 20 104 32 C120 16 154 24 158 50 C184 50 192 82 174 96 C182 114 164 128 148 122 C136 132 116 130 108 122 C94 130 66 130 52 118Z" fill="url(#n)" stroke="#1f2636" stroke-width="5"/>
+<path d="M34 80 C34 66 46 60 58 64 M70 42 C78 36 90 36 98 42" fill="none" stroke="#a7b3c8" stroke-width="4" opacity=".6"/>
+<path d="M58 124 C60 128 60 134 52 140" fill="none" stroke="#1f2636" stroke-width="0"/>
+<circle cx="50" cy="140" r="7" fill="#5f6c85" stroke="#1f2636" stroke-width="4"/><circle cx="36" cy="154" r="4" fill="#5f6c85" stroke="#1f2636" stroke-width="3"/>
+<!-- raio -->
+<path d="M112 98 L98 122 L108 122 L100 144 L124 114 L113 114 L122 98Z" fill="#fdbc10" stroke="#8b4513" stroke-width="3.5"/>
+<!-- rosto -->
+<g stroke="#1f2636"><circle cx="76" cy="82" r="10" fill="#f3e5d0" stroke-width="3.5"/><circle cx="110" cy="82" r="10" fill="#f3e5d0" stroke-width="3.5"/>
+<circle cx="78" cy="85" r="4.5" fill="#1f2636" stroke="none"/><circle cx="108" cy="85" r="4.5" fill="#1f2636" stroke="none"/>
+<path d="M62 74 L84 64 M124 74 L102 64" fill="none" stroke-width="5"/>
+<path d="M82 106 Q93 98 104 106" fill="none" stroke-width="4.5"/></g>
+</g></svg>

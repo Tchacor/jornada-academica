@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="theme-color" content="#5a2d0c" />
+    <title>Jornada Acadêmica</title>
+    <style>
+      html, body { margin: 0; height: 100%; background: #2b1608; overflow: hidden; touch-action: none; }
+      #game { width: 100vw; height: 100vh; }
+      #girar { display: none; position: fixed; inset: 0; background: #2b1608; color: #f3e5d0;
+        font: 700 22px system-ui, sans-serif; align-items: center; justify-content: center; text-align: center; padding: 24px; z-index: 9; }
+      @media (orientation: portrait) and (max-width: 800px) { #girar { display: flex; } }
+    </style>
+  </head>
+  <body>
+    <div id="game"></div>
+    <div id="girar">Gire o celular para o modo paisagem para jogar.</div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

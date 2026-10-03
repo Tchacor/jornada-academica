@@ -1,5 +1,7 @@
 # Plano de Execução — Jornada Acadêmica
 
+> **Atualização:** engine definida = **Phaser 3 + TypeScript** (em `game/`); toda a arte foi recriada em **SVG vetorial** a partir das telas; o **sistema de cartas foi removido por ora**; demais sugestões deste plano seguem valendo. Estado atual: MVP jogável com as 4 fases + Zona Segura (ver `README.md`).
+
 Base: GDD, Descrição das telas, Proposta 2.0 (artigo) e as 8 telas/UI em `Telas Jogo/`.
 
 ## 1. O que é o jogo (resumo do material)

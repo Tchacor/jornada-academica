@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 200" width="220" height="200">
+<defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d98a4a"/><stop offset="1" stop-color="#c2723a"/></linearGradient>
+<linearGradient id="p" x1="0" x2="1"><stop offset="0" stop-color="#8a5a34"/><stop offset="1" stop-color="#6a4226"/></linearGradient></defs>
+<rect x="38" y="85" width="22" height="112" fill="url(#p)" stroke="#3b2f26" stroke-width="3"/>
+<rect x="160" y="85" width="22" height="112" fill="url(#p)" stroke="#3b2f26" stroke-width="3"/>
+<rect x="6" y="6" width="208" height="102" rx="3" fill="url(#b)" stroke="#3b2f26" stroke-width="4"/>
+<path d="M10 40 H210 M10 74 H210" stroke="#a85f2e" stroke-width="2" opacity=".6"/>
+<path d="M20 22 Q70 17 120 23 T200 20 M18 92 Q80 97 130 91 T205 94" stroke="#e9a468" stroke-width="2.5" fill="none" opacity=".7"/>
+<circle cx="22" cy="95" r="4" fill="#8a5a34" stroke="#3b2f26" stroke-width="2"/><circle cx="198" cy="95" r="4" fill="#8a5a34" stroke="#3b2f26" stroke-width="2"/>
+<text x="110" y="70" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="38" fill="#3b2f26" text-anchor="middle" opacity=".35" transform="translate(1.5 2)">INICIAR</text>
+<text x="110" y="70" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="38" fill="#fbe9d2" text-anchor="middle" stroke="#7a4220" stroke-width="1">INICIAR</text>
+</svg>

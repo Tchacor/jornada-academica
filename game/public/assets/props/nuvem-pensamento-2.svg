@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" width="200" height="160">
+<defs><linearGradient id="n" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#66738d"/><stop offset="1" stop-color="#3a4459"/></linearGradient></defs>
+<g stroke-linejoin="round" stroke-linecap="round">
+<path d="M46 106 C16 104 8 80 26 68 C20 46 46 34 62 44 C70 22 100 18 116 34 C136 22 166 38 160 62 C186 64 192 92 170 102 C160 116 138 112 128 106 C112 118 80 118 70 108 C62 112 52 110 46 106Z" fill="url(#n)" stroke="#161c2a" stroke-width="5"/>
+<path d="M40 70 C42 60 52 56 62 60 M82 36 C92 30 104 32 110 38" fill="none" stroke="#9aa7be" stroke-width="4" opacity=".55"/>
+<circle cx="60" cy="124" r="8" fill="#55627c" stroke="#161c2a" stroke-width="4"/><circle cx="44" cy="141" r="5" fill="#55627c" stroke="#161c2a" stroke-width="3.5"/>
+<g stroke="#161c2a"><path d="M52 84 L70 80 M118 80 L136 84" stroke-width="5" fill="none"/>
+<ellipse cx="74" cy="90" rx="9" ry="10" fill="#f3e5d0" stroke-width="3.5"/><ellipse cx="114" cy="90" rx="9" ry="10" fill="#f3e5d0" stroke-width="3.5"/>
+<circle cx="77" cy="93" r="4.2" fill="#161c2a" stroke="none"/><circle cx="111" cy="93" r="4.2" fill="#161c2a" stroke="none"/>
+<path d="M82 106 Q94 112 106 106" fill="none" stroke-width="4.5"/></g>
+<text x="152" y="56" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="30" fill="#fdbc10" stroke="#161c2a" stroke-width="3" paint-order="stroke" transform="rotate(12 152 56)">?!</text>
+<path d="M142 118 L130 138 L138 138 L132 154 L152 130 L143 130 L150 118Z" fill="#fdbc10" stroke="#8b4513" stroke-width="3"/>
+</g></svg>
